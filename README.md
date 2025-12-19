@@ -36,7 +36,7 @@ data/
 ```
 ## Models:
 ### Model 1 - LeNet
-
+```
 Model: "sequential_17"
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
@@ -68,3 +68,4 @@ Total params: 1,705,891
 Trainable params: 1,705,891
 Non-trainable params: 0
 _________________________________________________________________
+```
