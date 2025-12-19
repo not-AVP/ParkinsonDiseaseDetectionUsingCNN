@@ -69,3 +69,6 @@ Trainable params: 1,705,891
 Non-trainable params: 0
 _________________________________________________________________
 ```
+<img src = "models/LeNet/accuracy.png" width = 500>
+<br>
+<img src = "models/LeNet/loss.png" width = 500>
